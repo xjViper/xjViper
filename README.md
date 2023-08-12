@@ -30,7 +30,7 @@
   ---
   
   <dl>
-    <dd>Links</dd>
+    <dd>Contatos</dd>
   </dl>
   
   ---
