@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @xjViper
 - 🌱 I’m currently learning Python
 
-- Pt/BR
+- Pt/Br
 - Olá, eu sou @xjViper
 - Atualmente estou aprendendo Python
 
@@ -16,7 +16,7 @@
 ---
 
 <dl>
-  <dd>Tecnologias</dd>
+  <dd>Tecnologias - Technologies</dd>
 </dl>
 
   ---
@@ -31,7 +31,7 @@
   ---
   
   <dl>
-    <dd>Contatos</dd>
+    <dd>Contatos - Contacts</dd>
   </dl>
   
   ---
