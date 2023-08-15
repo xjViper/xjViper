@@ -6,7 +6,7 @@
 - Olá, eu sou @xjViper
 - Atualmente estou aprendendo Python
 
-<div style="display:block" align="center">
+<div align="center">
   <a href="https://github.com/xjViper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xjViper&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xjViper&theme=tokyonight&hide_border=false"/>
