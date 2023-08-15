@@ -8,8 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/xjViper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xjViper&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjViper&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=xjViper&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=xjViper&theme=tokyonight&hide_border=false"/>
+  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjViper&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
     
 ---
