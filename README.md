@@ -75,7 +75,7 @@ No activity tracked
     
    <p> 
       <a href="mailto:jvperfeito@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/jvperfeito/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2.svg?logo=linkedin&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/jvperfeito/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2.svg?logo=linkedin&logoColor=white"></a>
    </p>
   </details>
   
