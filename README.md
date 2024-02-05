@@ -1,6 +1,8 @@
 <h2>👋 Introduction</h2>
 
-hi, i'm João Vitor Perfeito, a passionate developer and a student of software engineering from Brazil 🇧🇷.
+hi, i'm João Vitor, a passionate developer and a student of software engineering from Brazil 🇧🇷. currently work as a backend developer using NestJs.
+
+i am also an 🤖 machine learning enthusiast.
 
 ---
 
@@ -27,8 +29,7 @@ No activity tracked
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xjViper/xjViper/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xjViper/xjViper/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-    
+</picture>
 </details>
 
 ---
@@ -72,10 +73,10 @@ No activity tracked
   <details>
     <summary><h2>📫 Contact</h2></summary>
     
- <p> 
-  <a href = "mailto:jvperfeito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jvperfeito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        </p>
+   <p> 
+      <a href = "mailto:jvperfeito@gmail.com" alt="email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/jvperfeito/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   </p>
   </details>
   
   ---
