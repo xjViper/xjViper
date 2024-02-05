@@ -16,6 +16,11 @@ hi, i'm João Vitor Perfeito, a passionate developer and a student of software e
 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <picture>
