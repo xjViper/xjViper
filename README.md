@@ -56,7 +56,7 @@ Bash         8 mins          ▓░░░░░░░░░░░░░░░░
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AxjViper+language%3Aprisma"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AxjViper+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AxjViper+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AxjViper+language%3AtypeScript&type=repositories"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
