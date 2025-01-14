@@ -31,7 +31,7 @@ i am also an 🤖 machine learning enthusiast.
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 January 2025 - To: 13 January 2025
+From: 07 January 2025 - To: 14 January 2025
 
 HTML   1 hr 24 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
