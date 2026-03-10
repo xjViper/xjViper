@@ -12,17 +12,19 @@ i am also an 🤖 machine learning enthusiast.
 <p align="center">
   <a href="https://github.com/xjViper">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xjViper&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&rank_icon=github">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=xjViper&theme=transparent&show_icons=true&hide_border=false&count_private=true&rank_icon=github"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xjViper&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjViper&theme=transparent&show_icons=true&hide_border=false&layout=compact"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=xjViper&layout=compact&theme=tokyonight">
-    <img height="340" src="https://github-readme-stats.vercel.app/api/wakatime?username=xjViper&layout=compact"/>
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img height="170" src="./profile/stats-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/langs-dark.svg">
+  <img height="170" src="./profile/langs-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime-dark.svg">
+  <img height="340" src="./profile/wakatime-light.svg">
+</picture>
     
 </p>
 
