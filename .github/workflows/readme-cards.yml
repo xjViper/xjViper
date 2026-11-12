@@ -13,11 +13,11 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       # STATS DARK
       - name: Generate stats (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&rank_icon=github
@@ -26,7 +26,7 @@ jobs:
 
       # STATS LIGHT
       - name: Generate stats (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=transparent&show_icons=true&hide_border=false&count_private=true&rank_icon=github
@@ -35,7 +35,7 @@ jobs:
 
       # LANGS DARK
       - name: Generate langs (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
@@ -44,7 +44,7 @@ jobs:
 
       # LANGS LIGHT
       - name: Generate langs (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=transparent
@@ -53,7 +53,7 @@ jobs:
 
       # WAKATIME DARK
       - name: Generate wakatime (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
           options: username=xjViper&layout=compact&theme=tokyonight
@@ -62,7 +62,7 @@ jobs:
 
       # WAKATIME LIGHT
       - name: Generate wakatime (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
           options: username=xjViper&layout=compact&theme=transparent
